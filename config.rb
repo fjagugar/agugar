@@ -3,7 +3,6 @@
 ###
 
 set :haml, { ugly: true, format: :html5 }
-set :build_dir, 'docs'
 
 # Per-page layout changes:
 #
